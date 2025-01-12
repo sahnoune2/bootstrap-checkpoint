@@ -1,0 +1,20 @@
+.btn {
+  background-color: white;
+}
+
+#footer {
+  border-top: 1px solid orange;
+}
+@media (min-width: 768px) {
+  /* CSS rules for medium screens and above (>=768px) */
+  #header-font {
+    font-size: 3.5rem; /* Change width at the md breakpoint */
+  }
+  #contactUs {
+    margin-right: 50rem;
+    margin-left: 4.8rem;
+  }
+  #footer {
+    border-top: 1px solid orange;
+  }
+}
